@@ -4,8 +4,8 @@ import Greeting from './components/Greeting';
 import SignupForm from './components/SignupForm';
 function App(){
   const user={
-    name:"sharath kumar",
-    age:30,
+    name:"Goutham",
+    age:23,
   };
   return(
     <div>
